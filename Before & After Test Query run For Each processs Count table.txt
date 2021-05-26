@@ -1,0 +1,28 @@
+[10:09 AM] Gyaneshwar Pandey
+Select count(*) as TotalTimekeepersBT from Timekeeper
+Select count(*) as TotalClientsBT from Client
+select Count(*) as TotalMattersBT from Matter
+select count(*) as TotalVendorsBT from Vendor
+select count(*) as TotalVouchersBT from Voucher
+select count(*) as TotalGJEntrysBT from GJ
+select count(*) as TotalTimeCardsBT from Timecard
+select count(*) as TotalCostCardsBT from CostCard
+select count(*) as TotalChargeCardsBT from ActiveChrgCard
+select Count(*) as TotalProformasBT from ProfMaster
+select Count(*) as TotalInvoicesBT from InvMaster
+select Count(*) as TotalReceiptsBT from RcptMaster
+-------------------------------------------------------------
+
+
+Select count(*) as TotalTimekeepersAT from Timekeeper
+Select count(*) as TotalClientsAT from Client
+select Count(*) as TotalMattersAT from Matter
+select count(*) as TotalVendorsAT from Vendor
+select count(*) as TotalVouchersAT from Voucher
+select count(*) as TotalGJEntryAT from GJ
+select count(*) as TotalTimeCardsAT from Timecard
+select count(*) as TotalCostCardsAT from CostCard
+select count(*) as TotalChargeCardsAT from ActiveChrgCard
+select Count(*) as TotalProformasAT from ProfMaster
+select Count(*) as TotalInvoicesAT from InvMaster
+select Count(*) as TotalReceiptsAT from RcptMaster
